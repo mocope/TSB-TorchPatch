@@ -15,7 +15,7 @@
 # 神器の名前 (TextComponentString)
     data modify storage asset:artifact Name set value '{"text":"オートトーチ ver3.0","color":"#08B0FF"}'
 # 神器の説明文 (TextComponentString[])
-    data modify storage asset:artifact Lore set value ['{"text":"ver2.0から大幅アップデート！"}','{"text":"面倒な作業から更におさらば！"}','{"text":"松明の消費数が激減し、設置間隔が短縮！"}','{"text":"そして周囲の明るさに関係なく設置！"}','{"text":"⚠A型でなくても発狂注意","color":"#222C42"}']
+    data modify storage asset:artifact Lore set value ['{"text":"ver2.0から大幅アップデート！"}','{"text":"面倒な作業から更におさらば！"}','{"text":"松明の消費数が激減し、設置間隔が短縮！"}','{"text":"そして周囲の明るさに関係なく設置！"}']
 # 消費アイテム ({Item: TextComponent, Count: int, Extra?: TextComponent}) (オプション)
     data modify storage asset:artifact ConsumeItem.Item set value '{"translate":"block.minecraft.torch"}'
     data modify storage asset:artifact ConsumeItem.Count set value 1
