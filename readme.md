@@ -21,3 +21,10 @@
 1. 導入完了
 
 TheSkyBlessingの対応バージョンは1.0.6です。それ以前の動作チェックはしておりません。
+
+
+## 更新履歴
+<details><summary>1.1.0</summary>
+
+- オートトーチ ver3.0を追加
+</details>
