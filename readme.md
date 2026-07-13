@@ -1,4 +1,4 @@
-# TSB - Torch Patch
+# TSB - Torch Patch v1.1.0
 
 ### ※この作品はTheSkyBlessingの二次創作です
 
