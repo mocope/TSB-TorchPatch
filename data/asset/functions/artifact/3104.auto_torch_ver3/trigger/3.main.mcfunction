@@ -23,4 +23,3 @@
     execute in minecraft:overworld run tp 0-0-0-0-0 0.0 0.0 0.0
     data remove storage asset:temp Type
     scoreboard players reset $Count Temporary
-    scoreboard players reset $WallTorchCount Temporary

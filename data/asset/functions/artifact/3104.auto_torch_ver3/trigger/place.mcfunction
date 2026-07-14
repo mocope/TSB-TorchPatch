@@ -4,7 +4,7 @@
 #
 # @within function asset:artifact/3104.auto_torch_ver3/trigger/3.main
 
-# 25%の確率で松明を一つ消す
+# 30%の確率で松明を一つ消す
     execute if predicate lib:random_pass_per/30 run clear @s torch 1
 
 # Y-
