@@ -5,6 +5,7 @@
         "asset:artifact/3103.torch_sprinkler_insane/give/1.trigger",
         "asset:artifact/3104.auto_torch_ver3/give/1.trigger",
         "asset:artifact/3105.torch_thrower/give/1.trigger",
-        "asset:artifact/3106.torch_thrower_empty/give/1.trigger"
+        "asset:artifact/3106.torch_thrower_empty/give/1.trigger",
+        "asset:artifact/3107.steal_glow_jewel/give/1.trigger"
     ]
 }

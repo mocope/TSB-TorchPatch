@@ -1,0 +1,31 @@
+{
+    "values": [
+        "#lib:torches",
+        "#minecraft:candles",
+        "minecraft:glowstone",
+        "minecraft:lantern",
+        "minecraft:light",
+        "minecraft:glow_lichen",
+        "minecraft:sea_lantern",
+        "minecraft:sea_pickle",
+        "minecraft:jack_o_lantern",
+        "minecraft:fire",
+        "minecraft:end_rod",
+        "minecraft:campfire",
+        "minecraft:beacon",
+        "minecraft:pearlescent_froglight",
+        "minecraft:verdant_froglight",
+        "minecraft:ochre_froglight",
+        "minecraft:blast_furnace",
+        "minecraft:redstone_lamp",
+        "minecraft:lava_cauldron",
+        "minecraft:shroomlight",
+        "minecraft:soul_fire",
+        "minecraft:soul_torch",
+        "minecraft:soul_campfire",
+        "minecraft:soul_lantern",
+        "minecraft:redstone_torch",
+        "minecraft:redstone_wall_torch",
+        "minecraft:redstone_ore"
+    ]
+}

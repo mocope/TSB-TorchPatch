@@ -4,6 +4,7 @@
         "asset:artifact/3102.torch_sprinkler_ex/register",
         "asset:artifact/3103.torch_sprinkler_insane/register",
         "asset:artifact/3104.auto_torch_ver3/register",
-        "asset:artifact/3105.torch_thrower/register"
+        "asset:artifact/3105.torch_thrower/register",
+        "asset:artifact/3107.steal_glow_jewel/register"
     ]
 }

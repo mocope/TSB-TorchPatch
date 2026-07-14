@@ -2,6 +2,7 @@
     "values": [
         "asset:effect/3101.torch_sprinkler/_/register",
         "asset:effect/3102.torch_sprinkler_ex/_/register",
-        "asset:effect/3103.torch_sprinkler_insane/_/register"
+        "asset:effect/3103.torch_sprinkler_insane/_/register",
+        "asset:effect/3104.steal_glow_jewel/_/register"
     ]
 }
