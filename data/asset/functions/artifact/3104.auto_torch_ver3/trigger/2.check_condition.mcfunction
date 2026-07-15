@@ -17,7 +17,7 @@
     execute if entity @s[tag=!CanUsed] run return fail
 
 # サバイバルエリアか？
-    execute unless predicate api:area/is_breakable run function lib:message/artifact/can_not_use_here
+    # execute unless predicate api:area/is_breakable run function lib:message/artifact/can_not_use_here
     execute unless predicate api:area/is_breakable run tag @s remove CanUsed
     execute if entity @s[tag=!CanUsed] run return fail
 
