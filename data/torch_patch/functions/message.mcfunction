@@ -6,10 +6,11 @@
 
 tag @s remove TorchPatchLogin1.0.0
 tag @s remove TorchPatchLogin1.1.0
-tag @s add TorchPatchLogin1.2.0
+tag @s remove TorchPatchLogin1.2.0
+tag @s add TorchPatchLogin1.2.1
 
 # 導入メッセージ
-    tellraw @s [{"text": "----------", "color": "white"},{"text":"TSB Torch Patch v1.2.0", "color": "gold"},{"text":"----------", "color": "white"}]
+    tellraw @s [{"text": "----------", "color": "white"},{"text":"TSB Torch Patch v1.2.1", "color": "gold"},{"text":"----------", "color": "white"}]
     tellraw @s {"text": ""}
     tellraw @s {"text": "このパッチでは6つの神器が追加されています"}
     tellraw @s {"text": "・§e松明スプリンクラー§r / §cEX§r / §5INSANE"}
